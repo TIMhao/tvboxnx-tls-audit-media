@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXTINF:2,part0
+https://raw.githubusercontent.com/TIMhao/tvboxnx-tls-audit-media/main/plain_seg0.ts
+#EXTINF:2,part1
+https://raw.githubusercontent.com/TIMhao/tvboxnx-tls-audit-media/main/plain_seg1.ts
+#EXTINF:2,part2
+https://raw.githubusercontent.com/TIMhao/tvboxnx-tls-audit-media/main/plain_seg2.ts
+#EXT-X-ENDLIST

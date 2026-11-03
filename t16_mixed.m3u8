@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXTINF:2,part0
+https://192.168.202.220:8443/hls/plain_seg0.ts
+#EXTINF:2,part1
+https://192.168.202.220:8443/hls/plain_seg1.ts
+#EXTINF:2,part2
+https://192.168.202.220:8443/hls/plain_seg2.ts
+#EXT-X-ENDLIST
