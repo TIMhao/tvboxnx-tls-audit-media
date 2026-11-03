@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:6
-#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/TIMhao/tvboxnx-tls-audit-media/main/key.bin",IV=0x60c9b8cfcf686ef53aedfb9a570dbdb7
+#EXT-X-KEY:METHOD=AES-128,URI="https://cdn.jsdelivr.net/gh/TIMhao/tvboxnx-tls-audit-media@main/key.bin",IV=0x60c9b8cfcf686ef53aedfb9a570dbdb7
 #EXTINF:6,enc
-https://raw.githubusercontent.com/TIMhao/tvboxnx-tls-audit-media/main/enc_seg0.ts
+https://cdn.jsdelivr.net/gh/TIMhao/tvboxnx-tls-audit-media@main/enc_seg0.ts
 #EXT-X-ENDLIST
